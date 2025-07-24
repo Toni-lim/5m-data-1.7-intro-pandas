@@ -23,9 +23,8 @@ dft.select_dtypes(include = ['number'], exclude = ['float'])
 Question: How do you return the last 3 rows of a DataFrame `df`?
 
 Answer:
-df.tail(3)
 ```python
-
+df.tail(3)
 ```
 
 ### Question 3
